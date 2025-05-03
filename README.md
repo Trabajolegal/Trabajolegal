@@ -6,6 +6,6 @@
   </p>
   <p>
     <strong>WhatsApp:</strong> 
-    <a href="https://wa.me/5215563757032" target="_blank">+52 1 556 375 7032</a>
+    <a href="https://wa.me/5216572285418" target="_blank">+52 1 657 228 5418</a>
   </p>
 </div>
