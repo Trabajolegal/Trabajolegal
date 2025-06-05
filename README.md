@@ -1,11 +1,67 @@
-<div style="background-color:#f2f2f2; padding:20px; border-radius:10px;">
-  <h3>Contáctanos</h3>
-  <p>
-    <strong>Correo electrónico:</strong> 
-    <a href="mailto:visalaboralusa2025@gmail.com">visalaboralusa2025@gmail.com</a>
-  </p>
-  <p>
-    <strong>WhatsApp:</strong> 
-    <a href="https://wa.me/5216572285418" target="_blank">+52 1 657 228 5418</a>
-  </p>
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Visado Asistencia</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    .whatsapp-float {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #25D366;
+      color: white;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+      z-index: 1000;
+    }
+  </style>
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <!-- Encabezado -->
+  <header class="bg-white shadow p-4 flex justify-between items-center">
+    <div class="text-xl font-bold">visasolicitud.com</div>
+    <button class="bg-red-600 text-white px-4 py-2 rounded">INICIAR SESIÓN</button>
+  </header>  <!-- Sección de registro -->  <section class="p-6 max-w-4xl mx-auto">
+    <h2 class="text-2xl font-semibold mb-2">¿Aún no tiene una cuenta para hacer su trámite?</h2>
+    <p class="mb-4">Si usted aún no tiene una cuenta para su trámite, puede iniciar el proceso de su Visado Americano de forma rápida y sencilla dando clic: <a href="#" class="text-blue-600 font-semibold">AQUÍ</a></p><!-- Contacto -->
+<div class="bg-white p-4 rounded shadow mb-6">
+  <h3 class="font-bold text-lg mb-2">Asesoría y Soporte 24hrs.</h3>
+  <p><strong>Correo:</strong> accesovisausa@gmail.com</p>
+  <p><strong>Levantar un Ticket de Soporte:</strong> <a href="#" class="text-blue-600">Ingresar Cuenta</a></p>
 </div>
+
+<!-- Servicios -->
+<ul class="space-y-2 mb-6">
+  <li>✉️ Notificar Pago de Solicitud</li>
+  <li>✅ Garantía de Servicio. Verificación y Estándares Regulatorios</li>
+  <li>👨‍👩‍👧‍👦 Trámites Familiares ó Grupales</li>
+  <li>📄 Selección de Visa e Información</li>
+  <li>🔗 Links: <a href="#" class="text-blue-600">[ USCIS ]</a> - <a href="#" class="text-blue-600">[ CBP ]</a> - <a href="#" class="text-blue-600">[ USA.gov ]</a></li>
+</ul>
+
+<!-- Aviso y pie de página -->
+<div class="text-sm text-gray-600 bg-purple-100 p-4 rounded">
+  <strong>VISASOLICITUD.COM</strong> - Es un sitio para la gestión y solicitud de migración americana... Toda información ingresada queda protegida y encriptada.
+</div>
+
+  </section>  <!-- Footer -->  <footer class="bg-gray-200 text-center py-4 mt-10 text-sm">
+    <p>Política de Privacidad | Sitio Web Optimizado para cualquier Explorador.</p>
+    <div class="flex justify-center gap-4 mt-2">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/BBVA_logo.svg" alt="BBVA" class="h-6">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/OXXO_logo.svg" alt="OXXO" class="h-6">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png" alt="Visa" class="h-6">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png" alt="MasterCard" class="h-6">
+    </div>
+  </footer>  <!-- Botón de WhatsApp -->  <a href="https://wa.me/525566292431" target="_blank" class="whatsapp-float" aria-label="Contáctanos por WhatsApp">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="30" height="30">
+      <path d="M20.52 3.48A11.89 11.89 0 0012 0 12.06 12.06 0 000 12a11.9 11.9 0 001.68 6.11L0 24l6.24-1.64A11.94 11.94 0 0012 24a12.06 12.06 0 0012-12 11.89 11.89 0 00-3.48-8.52zM12 22a10 10 0 01-5.13-1.42l-.37-.22-3.7.97.99-3.59-.24-.37A9.86 9.86 0 012 12a10 10 0 0117-7.07A10 10 0 0112 22zm5.07-7.74l-1.4-.71c-.19-.1-.4-.09-.57.05l-.72.6a.44.44 0 01-.47.06c-.51-.21-2.19-1.08-3.2-3.25a.45.45 0 01.06-.48l.52-.66a.43.43 0 00.05-.5l-.65-1.35a.45.45 0 00-.57-.22 4.61 4.61 0 00-1.52.94c-.41.42-1.26 1.5 0 3.61s3.2 3.38 3.62 3.6 2.11 1.12 3.61.69a2.64 2.64 0 001.23-.82.45.45 0 00-.06-.6z" />
+    </svg>
+  </a>
+</body>
+</html>
